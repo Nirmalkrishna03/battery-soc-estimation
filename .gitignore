@@ -221,3 +221,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local battery dataset and generated model files
+/data/
+/Dataset_Li-ion/
+/results/trained_model/
+*.keras
+*.h5
